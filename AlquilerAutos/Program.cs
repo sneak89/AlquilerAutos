@@ -4,7 +4,7 @@ using AlquilerAutos;
 
 //Instancia de objetos
 Agencia agencia = new Agencia();
-Cliente cliente = new Cliente(01, "BBVA", "Barranca del Muerto", 276123456);
+Cliente cliente = new Cliente(01, "BBVA", "Barranca del Muerto 1", 276123456);
 Reservacion reservacion = new Reservacion("2024", "VW", "Amarillo", "ABC123", true);
 Pago pago = new Pago(); 
 

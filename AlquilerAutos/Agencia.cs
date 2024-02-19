@@ -22,7 +22,7 @@ namespace AlquilerAutos
         //métodos
         public void AlquilerDeAutos()
         {
-            Console.WriteLine("Estas llamando al método alquiler de autos");
+            Console.WriteLine(" Estas llamando al método alquiler de autos");
         }
     }
 }
